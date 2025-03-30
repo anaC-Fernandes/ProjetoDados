@@ -26,7 +26,13 @@ Dados demográficos dos municípios brasileiros (BrStats)
 
 ## **🔵 QUESTÕES A SEREM VALIDADAS**
 
-texto
+Ao selecionar as questões que utilizaríamos como base para nosso projeto optamos por separá-las em tópicos específicos, de maneira que direcionariamos o projeto para os temas **Economia**, **Agropecuária** e **Crise**. Os temas foram decididos em uma reunião na qual cada integrante do grupo levou algumas perguntas, e decidimos que a melhor abordagem seria a divisão em temas, selecionando as melhores perguntas que se encaixavam em cada um. 
+
+Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
+
+- **📈 Economia**: Dalmo Nolasco Dantas Rainer - 5361 e Guilherme Guimarães Pianetti - 5360;
+- **🌱 Agropecuária**: Renan Grassi - 3987;
+- **📉 Crise**: Ana Carolina Fernandes - 5094 e João Roberto Melo dos Santo - 3883.
 
 ### **📈 Economia**
 1. Existe uma correlação entre a quantidade de empresas (QtEmpresas) e indicadores sociais (População, NrNascimento, NrObitosInfantis)?
