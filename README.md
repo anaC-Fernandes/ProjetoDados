@@ -23,7 +23,7 @@ Dados demográficos dos municípios brasileiros (BrStats)
 
 [🔵 QUESTÕES A SEREM VALIDADAS](https://github.com/anaC-Fernandes/ProjetoDados#-questões-a-serem-validadas)
 
-[🔴 DEFINIÇÃO DO CONJUNTO DE DADOS]()
+[🔴 DEFINIÇÃO DO CONJUNTO DE DADOS](https://github.com/anaC-Fernandes/ProjetoDados#-definição-do-conjunto-de-dados)
 
 ## **🔵 QUESTÕES A SEREM VALIDADAS**
 
