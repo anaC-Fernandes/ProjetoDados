@@ -7,7 +7,7 @@ Para o trabalho prático da disciplina de Introdução à Ciência dos Dados ser
 
 Ana Carolina Fernandes - 5094
 
-João Roberto Melo dos Santo - 3883
+João Roberto Melo dos Santos - 3883
 
 Dalmo Nolasco Dantas Rainer - 5361
 
