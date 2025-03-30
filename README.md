@@ -54,6 +54,14 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 ## **🔴 DEFINIÇÃO DO CONJUNTO DE DADOS**
 
+### **📈 Economia**
+
+#### **Os municípios que recebem mais receita proveniente do governo federal brasileiro são capazes de utilizar e investir esse recurso em desenvolvimento social e econômico (PessoalOcupado, PessoalAssalariado, PIB, Receitas_R$)?**
+
+O principal objetivo desta pergunta é avaliar se os municípios que recebem grandes quantias de dinheiro, provenientes do governo, conseguem aplicá-lo de maneira eficaz em benefício da população. Para isso, utilizaremos bases de dados, como o Portal da Transparência, para coletar e analisar informações sobre os repasses. Esses dados serão incorporados às nossas tabelas como novas colunas, enriquecendo a pesquisa e tornando-a mais precisa e fundamentada.
+
+  - [Portal da Transparência](https://portaldatransparencia.gov.br/transferencias/consulta?ordenarPor=mesAno&direcao=desc)
+
 ### **📉 Crise**
 
 #### **9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016?**
