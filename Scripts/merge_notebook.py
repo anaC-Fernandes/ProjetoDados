@@ -1,7 +1,7 @@
 import nbformat
 
 # Lista de notebooks que serão mesclados
-notebooks = ["Notebooks/Dataset_Economia.ipynb", "Notebooks/Notebook_crise.ipynb"]
+notebooks = ["Notebooks/Dataset_Agro.ipynb", "Notebooks/Dataset.ipynb"]
 output_notebook = "notebook_final.ipynb"
 
 # Criar um novo notebook vazio
