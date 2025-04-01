@@ -33,7 +33,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 - **📈 Economia**: Dalmo Nolasco Dantas Rainer - 5361 e Guilherme Guimarães Pianetti - 5360;
 - **🌱 Agropecuária**: Renan Grassi - 3987;
-- **📉 Crise**: Ana Carolina Fernandes - 5094 e João Roberto Melo dos Santo - 3883.
+- **📉 Crise**: Ana Carolina Fernandes - 5094 e João Roberto Melo dos Santos - 3883.
 
 ### **📈 Economia**
 1. Existe uma correlação entre a quantidade de empresas (QtEmpresas) e indicadores sociais (População, NrNascimento, NrObitosInfantis)?
