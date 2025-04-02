@@ -15,13 +15,13 @@ Guilherme Guimarães Pianetti - 5360
 
 Renan Grassi - 3987
 
-### Dataset
+## **Dataset**
 
 Dados demográficos dos municípios brasileiros (BrStats)
 
 O dataset utilizado é um conjunto de dados unificados que reúne informações socioeconômicas de todos os municípios brasileiros. Ele integra dados de diversas áreas, como população, economia, emprego, educação e saúde, jo qual serão feitas análises nas três principais vertentes: Economia, Agropecuária e Crises.
 
-#### **Características principais:**
+### **Características principais:**
 **Abrangência:** Dados de 5.570 municípios brasileiros, cobrindo o período de 2016 a 2021.
 
 **Variáveis:** Inclui 21 colunas com informações como população, PIB, número de empresas, produção agrícola e pecuária, salários, importações/exportações, receitas municipais e indicadores de saúde (nascimento e óbitos infantis).
