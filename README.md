@@ -52,10 +52,9 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 ### **🌱 Agropecuária**
 5. Quais os efeitos da discrepância entre a área plantada e colhida? Há relações de deficit aparentes, neutro(ou balança 0) e aparente superavit que devemos estudar para as proximas etapas do projeto.
-6. Há relação entre povoamento e área plantada? Aparentemente sim!, quanto mais densamente povoado o local, menor sua produção agricola, sedo deixada para o interior.
-7. Mecanização da produção agrícola afeta a empregabilidade? Dados ainda precisam ser melhor trabalhados, estão muito confusos.
-8. Há uma relação entre o valor da produção agrícola e pecuária? Assim como a questão anterior ainda precisamos organizar melhor estes dados...
-
+6. Há relação entre povoamento e área plantada?
+7. Mecanização da produção agrícola afeta a empregabilidade?
+8. Há uma relação entre o valor da produção agrícola e pecuária?
 ### **📉 Crise**
 
 9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016? 
