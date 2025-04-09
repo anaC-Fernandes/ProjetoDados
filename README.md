@@ -51,7 +51,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 4. As transferências correntes (Transferencias_correntes_R$) e as transferências capitais (Transferencias_capital_R$) tem influencia nas Receitas (Receitas_R$) dos municípios?
 
 ### **🌱 Agropecuária**
-5. Quais os efeitos da discrepância entre a área plantada e colhida? Há relações de deficit aparentes, neutro(ou balança 0) e aparente superavit que devemos estudar para as proximas etapas do projeto.
+5. Quais os efeitos da discrepância entre a área plantada e colhida?
 6. Há relação entre povoamento e área plantada?
 7. Mecanização da produção agrícola afeta a empregabilidade?
 8. Há uma relação entre o valor da produção agrícola e pecuária?
