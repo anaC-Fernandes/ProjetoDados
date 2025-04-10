@@ -2,6 +2,8 @@
 
 Para o trabalho prático da disciplina de Introdução à Ciência dos Dados será desenvolvido um processamento dos dados demográficos dos municípios brasileiros (BrStats), além disso, os dados serão analisados em relação aos temas **Economia**, **Agropecuária** e situações de **Crise** envolvendo o Brasil. A base de dados foi fornecida pelo professor, com algumas adições retiradas da fonte utilizada no levantamento do BrStats, o [Sidra - Sistema IBGE de Recuperação Automática](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/).
 
+É importante citar, para um melhor entendimento do trabalho, a maneira como os notebooks estão estruturados, optamos por dividir cada tema em um notebook, com exceção do tema **Crise**, onde existem dois notebooks, um para a questão 9 e outro para a 10. De maneira a auxiliar o leitor em sua navegação, colocaremos o notebook utilizado em cada seção.
+
 
 ### Integrantes
 
@@ -64,13 +66,22 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 ### **📈 Economia**
 
+### **📚Notebook**: [Dataset_Economia](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Dataset_Economia.ipynb)
+
 #### **3. Os municípios que recebem mais receita proveniente do governo federal brasileiro são capazes de utilizar e investir esse recurso em desenvolvimento social e econômico (PessoalOcupado, PessoalAssalariado, PIB, Receitas_R$)?**
 
 O principal objetivo desta pergunta é avaliar se os municípios que recebem grandes quantias de dinheiro, provenientes do governo, conseguem aplicá-lo de maneira eficaz em benefício da população. Para isso, utilizaremos bases de dados, como o Portal da Transparência, para coletar e analisar informações sobre os repasses. Esses dados serão incorporados às nossas tabelas como novas colunas, enriquecendo a pesquisa e tornando-a mais precisa e fundamentada.
 
   - [Portal da Transparência](https://portaldatransparencia.gov.br/transferencias/consulta?ordenarPor=mesAno&direcao=desc)
 
+### **🌱 Agropecuária**
+
+### **📚 Notebook**: [Dataset_Agro](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Dataset_Agro.ipynb)
+
 ### **📉 Crise**
+
+### **📚 Notebook Questão 9**: [Dataset_Crise](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Dataset_Crise.ipynb)
+### **📚 Notebook Questão 10**: [Dataset_Covid](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Analise-Covid.ipynb)
 
 #### **9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016?**
 
