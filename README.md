@@ -53,10 +53,10 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 4. As transferências correntes (Transferencias_correntes_R$) e as transferências capitais (Transferencias_capital_R$) tem influencia nas Receitas (Receitas_R$) dos municípios?
 
 ### **🌱 Agropecuária**
-5. Qual a relação entre área cultivada e colhida?
-6. Qual a relação entre a densidade populacional e a área cultivada?
-7. Há relação entre mecanização do trabalho e geração de empregos?
-8. Há uma relação entre o valor da produção agrícola e pecuária?
+5. Existe uma correlação entre a área plantada e a área colhida?
+6. Municípios mais densamente povoados tendem a ter menor área agrícola?
+7. A produção agrícola gera mais empregos nos municípios?
+8. Municípios com maior produção agropecuária têm maior PIB?
 ### **📉 Crise**
 
 9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016? 
