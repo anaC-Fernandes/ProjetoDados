@@ -59,7 +59,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 8. Municípios com maior produção agropecuária têm maior PIB?
 ### **📉 Crise**
 
-9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016? 
+9. A partir da análise do PIB, quais regiões se recuperaram da recessão de 2014-2016? 
 10. Como os indicadores socias e econômicos foram afetados durante a pandemia?
 
 ## **🔴 DEFINIÇÃO DO CONJUNTO DE DADOS**
