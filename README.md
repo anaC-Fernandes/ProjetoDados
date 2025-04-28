@@ -97,7 +97,7 @@ sobre a recessão:
   
   Para realizar essa busca utilizamos a mesma fonte apresentada no artigo "Dados demográficos dos municípios brasileiros (BrStats)", o [Sidra](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/). O Sidra é um banco de tabelas que armazena os dados de pesquisas realizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), tais tabelas possuem diversos filtros que permitem acessar determinadas informações, como nomes dos municípios, UF e o PIB registrado de cada um deles. Essas informações nos levaram a uma [tabela](https://sidra.ibge.gov.br/tabela/5938#resultado) específica, que foi utilizada para enriquecer o dataset original.
 
-#### **10. Como a taxa de desemprego e o PIB foram afetadas durante a pandemia**
+#### **10. Como a taxa de desemprego foi afetada durante a pandemia**
 
 Em 11 de março de 2020, a Organização Mundial da Saúde (OMS) caracterizou a Covid-19 como uma pandemia, essa informação foi retirada do site da CNN Brasil, 5 anos após o fim da pandemia, em uma notícia publicada em 31 de dezembro de 2024, disponível abaixo:
 
