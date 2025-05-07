@@ -66,7 +66,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 ### **📈 Economia**
 
-### **📚Notebook**: [Dataset_Economia](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Dataset_Economia.ipynb)
+### **📚Notebook**: [Dataset_Economia](https://github.com/anaC-Fernandes/ProjetoDados/blob/main/Notebooks/Dataset_Economia.ipyn)
 
 #### **3. Os municípios que recebem mais receita proveniente do governo federal brasileiro são capazes de utilizar e investir esse recurso em desenvolvimento social e econômico (PessoalOcupado, PessoalAssalariado, PIB, Receitas_R$)?**
 
