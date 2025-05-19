@@ -2,7 +2,7 @@
 
 Para o trabalho prático da disciplina de Introdução à Ciência dos Dados será desenvolvido um processamento dos dados demográficos dos municípios brasileiros (BrStats), além disso, os dados serão analisados em relação aos temas **Economia**, **Agropecuária** e situações de **Crise** envolvendo o Brasil. A base de dados foi fornecida pelo professor, com algumas adições retiradas da fonte utilizada no levantamento do BrStats, o [Sidra - Sistema IBGE de Recuperação Automática](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/).
 
-É importante citar, para um melhor entendimento do trabalho, a maneira como os notebooks estão estruturados, optamos por dividir cada tema em um notebook, com exceção do tema **Crise**, onde existem dois notebooks, um para a questão 9 e outro para a 10. De maneira a auxiliar o leitor em sua navegação, colocaremos o notebook utilizado em cada seção.
+É importante citar, para um melhor entendimento do trabalho, a maneira como os notebooks estão estruturados, optamos por dividir cada tema em um notebook. De maneira a auxiliar o leitor em sua navegação, colocaremos o notebook utilizado em cada seção.
 
 
 ### Integrantes
@@ -60,7 +60,6 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 ### **📉 Crise**
 
 9. A partir da análise do PIB, quais regiões se recuperaram da recessão de 2014-2016? 
-10. Como os indicadores socias e econômicos foram afetados durante a pandemia?
 
 ## **🔴 DEFINIÇÃO DO CONJUNTO DE DADOS**
 
@@ -81,7 +80,6 @@ O principal objetivo desta pergunta é avaliar se os municípios que recebem gra
 ### **📉 Crise**
 
 ### **📚 Notebook Questão 9**: [Dataset_Crise](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Dataset_Crise.ipynb)
-### **📚 Notebook Questão 10**: [Dataset_Covid](https://github.com/anaC-Fernandes/ProjetoDados/blob/292a5f31c338f9156d05305fa3d1e98a96b6ae9a/Notebooks/Analise-Covid.ipynb)
 
 #### **9. A partir da análise do PIB, quais municípios se recuperaram da recessão de 2014-2016?**
 
@@ -97,12 +95,3 @@ sobre a recessão:
   
   Para realizar essa busca utilizamos a mesma fonte apresentada no artigo "Dados demográficos dos municípios brasileiros (BrStats)", o [Sidra](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/). O Sidra é um banco de tabelas que armazena os dados de pesquisas realizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), tais tabelas possuem diversos filtros que permitem acessar determinadas informações, como nomes dos municípios, UF e o PIB registrado de cada um deles. Essas informações nos levaram a uma [tabela](https://sidra.ibge.gov.br/tabela/5938#resultado) específica, que foi utilizada para enriquecer o dataset original.
 
-#### **10. Como a taxa de desemprego foi afetada durante a pandemia**
-
-Em 11 de março de 2020, a Organização Mundial da Saúde (OMS) caracterizou a Covid-19 como uma pandemia, essa informação foi retirada do site da CNN Brasil, 5 anos após o fim da pandemia, em uma notícia publicada em 31 de dezembro de 2024, disponível abaixo:
-
-- [5 anos da Covid-19: lembre o histórico desde 1º caso até fim da emergência](https://www.cnnbrasil.com.br/saude/5-anos-da-covid-19-relembre-o-historico-desde-1o-caso-ate-fim-da-emergencia/)
-
-A pandemia da Covid-19 foi uma tragédia mundial, que marcou não só as vidas dos brasileiros como também a economia do Brasil, o comércio e trabalho tiveram que ser adaptados pela nova realidade imposta, e cinco anos depois ainda sofremos com os impactos causados pela doença que parou o planeta como um todo. 
-
-Por esse motivo, decidimos utilizar o Dataset BrStats, que conta com dados relacionados e economia e qualidade de vida, para fazer uma análise do quanto a pandemia do Covid-19 afetou os indicadores sociais e econômicos disponíveis no Dataset durante o seu período de ocorrência.
