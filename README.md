@@ -1,6 +1,6 @@
 # **Projeto de Desenvolvimento - Dados demográficos dos municípios brasileiros (BrStats)**
 
-Para o trabalho prático da disciplina de Introdução à Ciência dos Dados será desenvolvido um processamento dos dados demográficos dos municípios brasileiros (BrStats), além disso, os dados serão analisados em relação aos temas **Economia**, **Agropecuária** e situações de **Crise** envolvendo o Brasil. A base de dados foi fornecida pelo professor, com algumas adições retiradas da fonte utilizada no levantamento do BrStats, o [Sidra - Sistema IBGE de Recuperação Automática](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/).
+Para o trabalho prático da disciplina de Introdução à Ciência dos Dados será desenvolvido um processamento dos dados demográficos dos municípios brasileiros (BrStats), além disso, os dados serão analisados em relação aos temas **Economia**, **Agropecuária** e situações de **Crise** envolvendo o Brasil. A base de dados foi fornecida pelo professor, com algumas adições retiradas da fonte utilizada no levantamento do BrStats, o [Sidra - Sistema IBGE de Recuperação Automática](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/) e do [Finbra - Finanças do Brasil](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUifHUwNmNAxU0s5UCHXsLD1UQFnoECBkQAQ&url=https%3A%2F%2Fsiconfi.tesouro.gov.br%2Fsiconfi%2Fpages%2Fpublic%2Fconteudo%2Fconteudo.jsf%3Fid%3D20303&usg=AOvVaw1FzxDElDFlYavY0tFIKZCN&opi=89978449).
 
 É importante citar, para um melhor entendimento do trabalho, a maneira como os notebooks estão estruturados, optamos por dividir cada tema em um notebook. De maneira a auxiliar o leitor em sua navegação, colocaremos o notebook utilizado em cada seção.
 
@@ -40,6 +40,8 @@ O dataset utilizado é um conjunto de dados unificados que reúne informações 
 
 Ao selecionar as questões que utilizaríamos como base para nosso projeto optamos por separá-las em tópicos específicos, de maneira que direcionariamos o projeto para os temas **Economia**, **Agropecuária** e **Crise**. Os temas foram decididos em uma reunião na qual cada integrante do grupo levou algumas perguntas, e decidimos que a melhor abordagem seria a divisão em temas, selecionando as melhores perguntas que se encaixavam em cada um. 
 
+É importante citar que, inicialmente, haviam 10 questões, porém a medida que se foi avançando no desenvolvimento do trabalho vimos a necessidade de remover ou remodelar algumas questões. Isso resultou na remoção de um notebook que havia sido utilizado anteriormente (Dataset-covid), mas que pode ser encontrado a partir das tags criadas para as entregas anteriores.
+
 Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 - **📈 Economia**: Dalmo Nolasco Dantas Rainer - 5361 e Guilherme Guimarães Pianetti - 5360;
@@ -55,6 +57,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 ### **🌱 Agropecuária**
 5.  Como está distribuída a produção agrícola entre os 10 maiores produtores agricolas do Dataset?
 6.  Estabelecendo uma relação entre Pessoal Ocupado e Produção Agrícola?
+
 ### **📉 Crise**
 
 9. A partir da análise do PIB, quais regiões se recuperaram da recessão de 2014-2016? 
