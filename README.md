@@ -36,6 +36,8 @@ O dataset utilizado é um conjunto de dados unificados que reúne informações 
 
 [🔴 DEFINIÇÃO DO CONJUNTO DE DADOS](https://github.com/anaC-Fernandes/ProjetoDados#-definição-do-conjunto-de-dados)
 
+[🟡 ORGANIZAÇÃO DAS ENTREGAS](https://github.com/anaC-Fernandes/ProjetoDados#-organizacao-das-entregas)
+
 ## **🔵 QUESTÕES A SEREM VALIDADAS**
 
 Ao selecionar as questões que utilizaríamos como base para nosso projeto optamos por separá-las em tópicos específicos, de maneira que direcionariamos o projeto para os temas **Economia**, **Agropecuária** e **Crise**. Os temas foram decididos em uma reunião na qual cada integrante do grupo levou algumas perguntas, e decidimos que a melhor abordagem seria a divisão em temas, selecionando as melhores perguntas que se encaixavam em cada um. 
@@ -95,4 +97,30 @@ sobre a recessão:
   2016, e a recessão começou em 2014 e terminou em 2016, por esse motivo houve a necessidade de incluir os dados dos anos anteriores.
   
   Para realizar essa busca utilizamos a mesma fonte apresentada no artigo "Dados demográficos dos municípios brasileiros (BrStats)", o [Sidra](https://sidra.ibge.gov.br/pesquisa/censo-demografico/series-temporais/series-temporais/). O Sidra é um banco de tabelas que armazena os dados de pesquisas realizadas pelo Instituto Brasileiro de Geografia e Estatística (IBGE), tais tabelas possuem diversos filtros que permitem acessar determinadas informações, como nomes dos municípios, UF e o PIB registrado de cada um deles. Essas informações nos levaram a uma [tabela](https://sidra.ibge.gov.br/tabela/5938#resultado) específica, que foi utilizada para enriquecer o dataset original.
+
+## **🟡 ORGANIZAÇÃO DAS ENTREGAS**
+
+Para uma melhor organização do repositório as etapas do projeto foram divididas em tags/releases no GitHub, para melhor orientar a visualização do que foi feito dispinibilizamos abaixo as entregas e suas respectivas tags e commits.
+
+### **Entrega 1 - Entendimento inicial dos dados e preparação**
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-1)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/cedd5b68115c414878effa417b99a6bcd75ac9ce)
+
+### **Entrega 2 - Análise exploratória dos dados**
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-2)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/9b8815eb7151d9e490fa1071e05789e770b47eca)
+
+### **Entrega 3 - Inferência Estatística e Regras de Associação**
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-3)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/444ffded54695389c0ccc438982deb98cd579ff1)
+
+### **Entrega 4 - Regressão**
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-4)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/a614a9a7a604526e952140b32aca6d1346cf33e0)
+
+  É importante ressaltar que nesta etapa o Analise-Covid foi descontinuado, a decisão foi tomada ao encontrar dificuldade em fazer a regressão relacionada ao tema. Por esse motivo o integrante responsável pela pergunta do Analise-Covid trabalhou no Dataset_Crise nesta entrega.
+
+### **Entrega 5 - Aprendizado Supervisionado e Não-Supervisionado**
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-4)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/a614a9a7a604526e952140b32aca6d1346cf33e0)
 
