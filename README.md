@@ -120,6 +120,6 @@ Para uma melhor organização do repositório as etapas do projeto foram dividid
   É importante ressaltar que nesta etapa o Analise-Covid foi descontinuado, a decisão foi tomada ao encontrar dificuldade em fazer a regressão relacionada ao tema. Por esse motivo o integrante responsável pela pergunta do Analise-Covid trabalhou no Dataset_Crise nesta entrega.
 
 ### **Entrega 5 - Aprendizado Supervisionado e Não-Supervisionado**
-  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-4)
-  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/a614a9a7a604526e952140b32aca6d1346cf33e0)
+  - [Tag](https://github.com/anaC-Fernandes/ProjetoDados/releases/tag/entrega-etapa-5)
+  - [Commit referente](https://github.com/anaC-Fernandes/ProjetoDados/tree/5be5ab13a45a3e9754690675dac64c554934d19b)
 
