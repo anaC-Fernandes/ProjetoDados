@@ -45,7 +45,7 @@ Ao selecionar as questões que utilizaríamos como base para nosso projeto optam
 Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 
 - **📈 Economia**: Dalmo Nolasco Dantas Rainer - 5361 e Guilherme Guimarães Pianetti - 5360;
-- **🌱 Agropecuária**: Renan Grassi - 3987;
+- **🤠 Agropecuária**: Renan Grassi - 3987;
 - **📉 Crise**: Ana Carolina Fernandes - 5094 e João Roberto Melo dos Santos - 3883.
 
 ### **📈 Economia**
@@ -55,8 +55,7 @@ Em seguida dividimos os temas entre os integrantes conforme mostrado abaixo:
 4. As transferências correntes (Transferencias_correntes_R$) e as transferências capitais (Transferencias_capital_R$) tem influencia nas Receitas (Receitas_R$) dos municípios?
 
 ### **🌱 Agropecuária**
-5.  Como está distribuída a produção agrícola entre os 10 maiores produtores agricolas do Dataset?
-6.  Estabelecendo uma relação entre Pessoal Ocupado e Produção Agrícola?
+5.  O Que Aumenta a Produção Agricola?
 
 ### **📉 Crise**
 
@@ -74,7 +73,7 @@ O principal objetivo desta pergunta é avaliar se os municípios que recebem gra
 
   - [Portal da Transparência](https://portaldatransparencia.gov.br/transferencias/consulta?ordenarPor=mesAno&direcao=desc)
 
-### **🌱 Agropecuária**
+### **🤠 Agropecuária**
 
 ### **📚 Notebook**: [Dataset_Agro](https://github.com/anaC-Fernandes/ProjetoDados/blob/c984c0f9a998e76d35b183980d1b8cc1c00f251c/Notebooks/Dataset_Agro.ipynb)
 
